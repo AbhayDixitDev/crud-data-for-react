@@ -12,9 +12,9 @@
     }
   ],
   "git": {
-    "deploymentEnabled": false
+    "deploymentEnabled": true
   },
   "env": {
-    "VERCEL_GITHUB_DISABLED": true
+    "VERCEL_GITHUB_DISABLED": false
   }
 }
