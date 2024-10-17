@@ -12,11 +12,9 @@
     }
   ],
   "git": {
-    "deploymentEnabled": {
-      "main": true
-    },
-    "github": {
-      "autoJobCancellation": false
-    }
+    "deploymentEnabled": false
+  },
+  "env": {
+    "VERCEL_GITHUB_DISABLED": true
   }
 }
